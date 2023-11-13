@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cn278SlLnXaEgIkOf33vH0yKJhq6Uf26l8K5hBXFi3Vu9h1jq2Xf23T7wsqdfQd2E2itJDWKwp6jea62J5OjBg==",
+  "success": true,
+  "projectFilePath": "G:\\00_STUDIA\\01_SZEMATOWICZ_C#\\ZADANIA GOTOWE DO WYSYŁANIA\\USB DETECTOR\\USB DETECT\\USB DETECT\\USB DETECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymo\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\szymo\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
